@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a member of Parliament concerning the suppression of piracy</title>
+            <author>J. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08403</idno>
+            <idno type="STC">Wing B112</idno>
+            <idno type="STC">ESTC R221397</idno>
+            <idno type="EEBO-CITATION">62369018</idno>
+            <idno type="OCLC">ocm 62369018</idno>
+            <idno type="VID">187788</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08403)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187788)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2842:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a member of Parliament concerning the suppression of piracy</title>
+                  <author>J. B.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: "J. B."</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pirates --  England --  Early works to 1800.</term>
+               <term>Hijacking of ships --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Colonies --  America --  Administration.</term>
+               <term>Great Britain --  Colonies --  America --  Commerce --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:187788:1" rendition="simple:additions"/>
+            <head>A <hi>LETTER</hi> to a Member of Parliament concerning the Suppreſſion of Piracy.</head>
+            <opener>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>March 20. 1699/700.</date>
+               </dateline>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Cannot but think it my duty (perceiving that your Honourable Houſe is conſidering of means for the preventing and puniſhing both Pyrats and illegal Traders) to give you a ſhort hint of the Reaſons why they have grown to a greater heigth in the <hi>Engliſh</hi> than in other Colonies on the Main of <hi>America,</hi> and a Propoſal for the future preven<g ref="char:EOLhyphen"/>tion of them.</p>
+            <p>It may be almoſt needleſs to acquaint you that ſeveral of our <hi>American</hi> Plantations are like petty Soveraigntys, having the Choice of Governours, the Power of calling Aſſemblies, making Laws, raiſing Mony by ſome former Grants from the Crown, or at leaſt the pre<g ref="char:EOLhyphen"/>tenſions of them.</p>
+            <p>Each of theſe, Intereſt being their chief Mover, are reſtleſly ambitious of advancing their Eſtates by drawing away the Trade and Inhabitants from other Colonies that are contigu<g ref="char:EOLhyphen"/>ous to them, and more eſpecially from thoſe that are under the immediate direction of the Crown, as the Proprietary Colonies to the Weſtward, from the Colonies of <hi>New York</hi> and <hi>New England.</hi>
+            </p>
+            <p>In order to this they vie with each other, who ſhall allow their People the greateſt Privile<g ref="char:EOLhyphen"/>ges, or moſt exempt them from any Cuſtoms or Duties on Goods exported or imported; which the King's Governments, eſpecially <hi>New York,</hi> cannot avoid, it being a moſt neceſſary Supply for the maintenance of the Government, the guard of the Frontiers from the Inſults of thoſe <hi>Indians</hi> that otherwiſe would prove fatal in time of War, not only to them but to the neighbouring Colonies.</p>
+            <p>Hence it is that in all the Proprietary Colonies the People pretend to an abſolute exemption from Cuſtoms and Duties, but what is laid by Act of Parliament in <hi>England,</hi> and in moſt to the Choice of all Officers both Civil and Military, in ſome not excepting the Council nor the Governour.</p>
+            <p>Theſe Officers thus annually choſen, endeavour to do nothing that may diſoblige their Electors, leſt the next year they are deprived of their Dignities.</p>
+            <p>The Inhabitants of the Plantations abroad are too much addicted to abet and encourage both Pyrats and illegal Traders, as the Perſons that they gain no ſmall advantage by cor<g ref="char:EOLhyphen"/>reſponding with.</p>
+            <p>Hence it is that theſe Criminals meet with their Encouragement, thoſe Officers that ſhould apprehend, being but too negligent of their Duties, and this from perſonal Advantages and Gains they receive by them, or through fear of the People by whoſe favour they ſtand.</p>
+            <p>The Remedies then ſeem to be plain and eaſy, the Bill already read in your Honourable Houſe will undoubtedly give a very great diſcouragement to Piracy, tho illegal Trade ſtill re<g ref="char:EOLhyphen"/>mains to be ſuppreſſed, the Duties accruing to the King to be more effectually preſerved, and the Frontiers of the Government better protected againſt foreign Inſults; which I am humbly of opinion might be done, if in the Bill that yet lies before you for the puniſhing of Governours, <hi>&amp;c.</hi> you would be pleaſed by ſome Clauſe,</p>
+            <p>To lay all the Colonies on the Continent of <hi>America,</hi> that carry on the ſame Methods of Trade, under the ſame equal Cuſtoms on Goods exported and imported, for the maintenance of their diſtinct Governments, or the defraying a more general Charge.</p>
+            <p>To cauſe that the Confuſion and Anarchy which now ſo much prevails in ſome of the Colo<g ref="char:EOLhyphen"/>nies (inſomuch that the Council in their Letters home complain they are hardly ſafe in their Perſons or Eſtates; if by a due and vigorous execution of the Law againſt Pyrats or illegal Traders, they ſhould incenſe the People againſt them) may be ſucceeded by an exact obedi<g ref="char:EOLhyphen"/>ence to their ſuperiour Officers, which cannot be expected, until a greater Authority than any Proprietary Commiſſion ſhall appear there.</p>
+            <p>That to obtain this (ſince Property may be alledged by ſome, and a right of commiſſionating and ſending of Governours, which they ſeem to be ſo fond of, that the moſt plain Argu<g ref="char:EOLhyphen"/>ments drawn from the inevitable neceſſity thereof, their own Profit and Advantage<g ref="char:punc">▪</g> the Peace and Proſperity of the People, and the intire Suppreſſion of Pyracy, <hi>&amp;c.</hi> cannot pre<g ref="char:EOLhyphen"/>vail) I hope you will be inſtrumental in finding out ſome ways to bring all theſe Co<g ref="char:EOLhyphen"/>lonies to a more immediate dependance on the Crown, by giving the King the Nomi<g ref="char:EOLhyphen"/>nation and Commiſſionating of the Governours and Officers Civil and Military in the re<g ref="char:EOLhyphen"/>ſpective Colonies, and yet reſerving all the Rights and Properties that either the Proprietors at home, or the People there may have to the Lands or Plantations in the ſaid Colonies by virtue of their former Grants from the Crown.</p>
+            <closer>
+               <signed>I am <hi>SIR,</hi> Your moſt humble Servant, <hi>J. B.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:187788:2" rendition="simple:additions"/>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <p>A <hi>LETTER</hi> to a Mem<g ref="char:EOLhyphen"/>ber of Parliament concerning the Sup<g ref="char:EOLhyphen"/>preſſion of Piracy.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
